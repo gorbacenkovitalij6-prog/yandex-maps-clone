@@ -16,7 +16,7 @@ export const reviewsData = [
     date: "October 21",
     rating: 5,
     text: "Отличный автосалон! Купили семейный минивэн. Сотрудники помогли с выбором, учли все наши пожелания. Машина в отличном состоянии, все проверили перед покупкой. Спасибо за профессионализм!",
-    avatar: "https://i.ibb.co/6cBpkVJb/79796855-3280557498638452-2998598019760259072-n.jpg",
+    avatar: "https://hips.hearstapps.com/hmg-prod/images/24chcr35018-1673633610.jpg",
     hasMore: true,
   },
   {
@@ -256,7 +256,7 @@ export const reviewsData = [
     date: "June 25",
     rating: 5,
     text: "Приобрел Infiniti QX50. Машина мечты! Ребята помогли реализовать желание. Все прошло быстро, четко, без лишних вопросов. Рекомендую всем!",
-    avatar: "https://i.ibb.co/dwGxPZZf/528839942-24035802569380512-8927316941548235793-n.jpg",
+    avatar: "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-mountain-landscape-before-sunset-free-photo.jpg",
     hasMore: false,
   },
   {
