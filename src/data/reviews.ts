@@ -266,7 +266,7 @@ export const reviewsData = [
     date: "May 30",
     rating: 3,
     text: "Взяла Seat Leon. Машина хорошая, но оформление затянулось. Были небольшие разногласия по цене, но в итоге договорились. Автомобиль нравится.",
-    avatar: "https://images.unsplash.com/photo-1544084944-15269ec7b5a0?w=400",
+    avatar: "https://images.squarespace-cdn.com/content/v1/574512d92eeb81676262d877/1dc1f125-b7d6-4302-8d3b-b25c3dc2a546/Headshot-Photographer-London-UK-Ian-Kobylanki-292.jpg",
     hasMore: false
   },
   {
