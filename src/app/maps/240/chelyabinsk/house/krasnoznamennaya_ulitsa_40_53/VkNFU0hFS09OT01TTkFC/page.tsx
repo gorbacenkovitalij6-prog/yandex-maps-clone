@@ -505,7 +505,7 @@ export default function Page() {
               {/* Company Logo */}
               <div className="mb-3 lg:mb-2 bg-white rounded-lg p-4 lg:p-6 flex items-center justify-center">
                 <img
-                  src="https://i.ibb.co/BHVB4M6B/Gemini-Generated-Image-o86wa9o86wa9o86w.png"
+                  src="https://3000-ohxwttiwdrpghycvuhjfiyrzgycnylbr.preview.same-app.com/logo.png"
                   alt="Тайфунавто"
                   className="w-full max-w-[280px] lg:max-w-md h-auto"
                   loading="eager"
@@ -637,7 +637,7 @@ export default function Page() {
                   <div className="flex justify-center mb-4">
                     <div className="w-full h-32 flex items-center justify-center">
                       <img
-                        src="https://i.ibb.co/BHVB4M6B/Gemini-Generated-Image-o86wa9o86wa9o86w.png"
+                        src="https://3000-ohxwttiwdrpghycvuhjfiyrzgycnylbr.preview.same-app.com/logo.png"
                         alt="Тайфунавто"
                         className="w-full max-w-[200px] h-auto"
                         loading="lazy"
@@ -1118,7 +1118,7 @@ export default function Page() {
                     <div className="px-6 pt-2">
                       <div className="w-full bg-white rounded-lg p-4 flex items-center justify-center">
                         <img
-                          src="https://i.ibb.co/BHVB4M6B/Gemini-Generated-Image-o86wa9o86wa9o86w.png"
+                          src="https://3000-ohxwttiwdrpghycvuhjfiyrzgycnylbr.preview.same-app.com/logo.png"
                           alt="Тайфунавто"
                           className="w-full max-w-xs h-auto"
                         />
@@ -1477,7 +1477,7 @@ export default function Page() {
                 {/* Header with logo - НЕ закрепленная */}
                 <div className="relative h-64 xs:h-72 iphone-16-pro-max:h-80 bg-white flex-shrink-0 flex items-center justify-center p-8">
                   <img
-                    src="https://i.ibb.co/BHVB4M6B/Gemini-Generated-Image-o86wa9o86wa9o86w.png"
+                    src="https://3000-ohxwttiwdrpghycvuhjfiyrzgycnylbr.preview.same-app.com/logo.png"
                     alt="Тайфунавто"
                     className="w-full max-w-md h-auto object-contain"
                     loading="eager"
@@ -1762,7 +1762,7 @@ export default function Page() {
                         <div className="flex justify-center mb-3 xs:mb-4">
                           <div className="w-full h-24 xs:h-28 flex items-center justify-center">
                             <img
-                              src="https://i.ibb.co/BHVB4M6B/Gemini-Generated-Image-o86wa9o86wa9o86w.png"
+                              src="https://3000-ohxwttiwdrpghycvuhjfiyrzgycnylbr.preview.same-app.com/logo.png"
                               alt="Тайфунавто"
                               className="w-full max-w-[160px] xs:max-w-[180px] h-auto"
                               loading="lazy"
