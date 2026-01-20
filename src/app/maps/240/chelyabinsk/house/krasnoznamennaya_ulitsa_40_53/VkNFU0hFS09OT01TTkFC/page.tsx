@@ -25,7 +25,7 @@ export default function Page() {
   const [showRouteModal, setShowRouteModal] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [routeFrom, setRouteFrom] = useState('');
-  const [routeTo, setRouteTo] = useState('г. Тольятти, Коммунистическая ул. д. 110, оф. 191');
+  const [routeTo, setRouteTo] = useState('г. Тольятти, ул. Александра Кудашева, д. 110, кв. 191');
   const [selectedTransport, setSelectedTransport] = useState<'auto' | 'transit' | 'walk'>('auto');
   const [uploadedPhotos, setUploadedPhotos] = useState<string[]>([]);
   const [isDragging, setIsDragging] = useState(false);
@@ -532,12 +532,12 @@ export default function Page() {
                   <div>
                     <div className="text-[13px] lg:text-[14px] font-medium text-gray-800 mb-0.5">Адрес</div>
                     <a
-                      href="https://yandex.ru/maps/?text=Тольятти%20Коммунистическая%20улица%20110&z=17"
+                      href="https://yandex.ru/maps/?text=Тольятти%20Александра%20Кудашева%20улица%20110&z=17"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[13px] lg:text-[14px] text-blue-600 hover:text-blue-700 hover:underline cursor-pointer"
                     >
-                      445004, Самарская область, г. Тольятти, Коммунистическая ул. д. 110, оф. 191
+                      445004, Самарская область, г. Тольятти, ул. Александра Кудашева, д. 110, кв. 191
                     </a>
                   </div>
                 </div>
@@ -1128,7 +1128,7 @@ export default function Page() {
                     {/* Company Info */}
                     <div className="px-6 pt-3 pb-3">
                       <h3 className="text-[17px] font-medium text-gray-900">Тайфунавто</h3>
-                      <a href="https://yandex.ru/maps/?text=Тольятти%20Коммунистическая%20улица%20110&z=17" target="_blank" rel="noopener noreferrer" className="text-[13px] text-blue-600 hover:text-blue-700 active:text-blue-800 mt-0.5 block">Коммунистическая ул. д. 110, оф. 191</a>
+                      <a href="https://yandex.ru/maps/?text=Тольятти%20Александра%20Кудашева%20улица%20110&z=17" target="_blank" rel="noopener noreferrer" className="text-[13px] text-blue-600 hover:text-blue-700 active:text-blue-800 mt-0.5 block">ул. Александра Кудашева, д. 110, кв. 191</a>
                     </div>
 
                     {/* Form */}
@@ -1357,7 +1357,7 @@ export default function Page() {
       <div className="lg:hidden relative h-screen w-full overflow-hidden">
         {/* Map iframe */}
         <iframe
-          src="https://yandex.com/map-widget/v1/?from=api-maps&ll=49.3461%2C53.5303&mode=whatshere&whatshere%5Bpoint%5D=49.3461%2C53.5303&whatshere%5Bzoom%5D=17&z=18&theme=light"
+          src="https://yandex.com/map-widget/v1/?from=api-maps&ll=49.4180%2C53.4897&mode=whatshere&whatshere%5Bpoint%5D=49.4180%2C53.4897&whatshere%5Bzoom%5D=17&z=18&theme=light"
           allowFullScreen
           className="w-full h-full border-0"
         />
@@ -1659,12 +1659,12 @@ export default function Page() {
                           <div className="flex-1 min-w-0">
                             <div className="text-[12px] xs:text-[13px] font-medium text-gray-800 mb-0.5">Адрес</div>
                             <a
-                              href="https://yandex.ru/maps/?text=Тольятти%20Коммунистическая%20улица%20110&z=17"
+                              href="https://yandex.ru/maps/?text=Тольятти%20Александра%20Кудашева%20улица%20110&z=17"
                               target="_blank"
                               rel="noopener noreferrer"
                               className="text-[12px] xs:text-[13px] text-blue-600 hover:text-blue-700 active:text-blue-800 leading-relaxed block"
                             >
-                              445004, Самарская область, г. Тольятти, Коммунистическая ул. д. 110, оф. 191
+                              445004, Самарская область, г. Тольятти, ул. Александра Кудашева, д. 110, кв. 191
                             </a>
                           </div>
                         </div>
@@ -2174,7 +2174,7 @@ export default function Page() {
       {/* Right Panel - Map (Desktop Only) */}
       <div className="hidden lg:flex flex-1 relative">
         <iframe
-          src="https://yandex.com/map-widget/v1/?from=api-maps&ll=49.3461%2C53.5303&mode=whatshere&whatshere%5Bpoint%5D=49.3461%2C53.5303&whatshere%5Bzoom%5D=17&z=18&theme=light"
+          src="https://yandex.com/map-widget/v1/?from=api-maps&ll=49.4180%2C53.4897&mode=whatshere&whatshere%5Bpoint%5D=49.4180%2C53.4897&whatshere%5Bzoom%5D=17&z=18&theme=light"
           allowFullScreen
           className="w-full h-full border-0"
         />
@@ -2613,7 +2613,7 @@ export default function Page() {
               </div>
               <div className="px-6 pt-3 pb-3">
                 <h3 className="text-[17px] font-medium text-gray-900">Тайфунавто</h3>
-                <a href="https://yandex.ru/maps/?text=Тольятти%20Коммунистическая%20улица%20110&z=17" target="_blank" rel="noopener noreferrer" className="text-[13px] text-blue-600 hover:text-blue-700 active:text-blue-800 mt-0.5 block">Коммунистическая ул. д. 110, оф. 191</a>
+                <a href="https://yandex.ru/maps/?text=Тольятти%20Александра%20Кудашева%20улица%20110&z=17" target="_blank" rel="noopener noreferrer" className="text-[13px] text-blue-600 hover:text-blue-700 active:text-blue-800 mt-0.5 block">ул. Александра Кудашева, д. 110, кв. 191</a>
               </div>
               <div className="px-6 pb-6 space-y-4">
                 <div className="flex gap-2 justify-center" onMouseLeave={() => setHoverRatingModal(0)}>
